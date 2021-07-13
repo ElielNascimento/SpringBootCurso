@@ -1,0 +1,13 @@
+package com.example.demo.config;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Profile;
+import org.springframework.stereotype.Service;
+
+@Configuration
+@Profile("test")
+public class TestConfig {
+	
+	private
+
+}
